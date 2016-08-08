@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Aula</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Hi, Surya</string>
+    <string name="logout">LogOut</string>
+    <string name="tile1Content">
+        Title: Dinosaurs \n
+        Lecture: Aula Team\n
+        Subject: Extinct Animals</string>
+    <string name="upcomingSession">
+        Upcoming Live  Session\n
+        Title: Solar System\n
+        Will Start in: 3 hrs
+    </string>
+    <string name="tile2Content">
+        Title: Solar System \n
+        Lecture: Aula Team\n
+        Subject: Solar
+    </string>
+    <string name="tile3Content">
+        Title: Tom \n
+        Lecture: Aula Team\n
+        Subject: Cartoon
+    </string>
+
+    <string name="tile4Content">
+        Title: Rocket \n
+        Lecture: Aula Team\n
+        Subject: Space
+    </string>
+    <string name="title_activity_detail">detail</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subjectTopic">Title: Extinct Animals</string>
+    <string name="timeDuration">Duration: 1 hour 25 Minutes</string>
+    <string name="lecturerName">Lecturer: AULA Team</string>
+    <string name="subjectDescription">Description:\n
+        The creature was described as being fearful-looking,\n
+        with the sighting being made \n
+        from a distance of about 50 metres.</string>
+    <string name="cardboardString">PLACE YOUR MOBILE\n
+    ON\n
+    CARDBOARD</string>
+</resources>
